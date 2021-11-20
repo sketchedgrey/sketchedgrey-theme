@@ -1,5 +1,5 @@
 # sketchedgreys-theme
-My custom 3DS theme for systems with CFW:
+My custom 3DS theme for systems with CFW:  
 ![Theme Preview](https://github.com/sketchedgrey/sketchedgrey-theme/blob/main/bin/sketchedgrey/preview.png)
 
 ## Credits
